@@ -134,6 +134,12 @@ ul {
     margin: 20px 0;
 }
 
+.name-list {
+    margin-top: 01px;
+    font-size: 05px;
+    text-align: left;
+}
+
 .result-list {
     margin-top: 15px;
     color: #05DF05;
